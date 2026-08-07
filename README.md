@@ -6,7 +6,11 @@ A business-oriented data analytics project using **MySQL and Tableau** to invest
 
 ## Dashboard Preview
 
+![[dashboard.png]]
 
+![[category_contribution.png]]
+
+![[regional_profitability.png]]
 
 ## Project Background \| 项目背景
 
